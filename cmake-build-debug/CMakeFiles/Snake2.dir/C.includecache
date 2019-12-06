@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/C22Charleen.Muyot/CLionProjects/Snake2/main.c
+memory.h
+-
+snakefuncts.h
+/cygdrive/c/Users/C22Charleen.Muyot/CLionProjects/Snake2/snakefuncts.h
+
+/cygdrive/c/Users/C22Charleen.Muyot/CLionProjects/Snake2/snakefuncts.h
+time.h
+-
+ncurses.h
+-
+curses.h
+-
+unistd.h
+-
+stdlib.h
+-
+stdbool.h
+-
+
